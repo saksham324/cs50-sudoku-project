@@ -6,6 +6,8 @@ Project video:
 
 https://dartmouth.zoom.us/rec/share/wOMoAanQ609LYafTyF_uWZEjBqTiaaa8hiAervQFmR1lL-aNeCr0IdiPRTDEcT0e?startTime=1591210300000
 
+Note: this is a direct copy of our original repo, and I am simply re-uploading using my account.
+
 ## Usage
 
 `make` to compile.
