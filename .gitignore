@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Vim
+*.swp
+
+# VS Code
+*.code-workspace
+
+# Custom data files
+data*/
+
+# C
+*.o
+*.out
+*.dSYM/
+core
+!testing.out
+
+#Program exec
+sudoku
